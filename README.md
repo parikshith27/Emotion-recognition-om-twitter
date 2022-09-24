@@ -1,2 +1,2 @@
-# Emotion-recognition-om-twitter
+# Emotion-recognition-on-twitter
 Tweet emotion recognition earner
